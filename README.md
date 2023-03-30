@@ -1,4 +1,4 @@
-# Numpy-Pandas-Training
+# Python_Mathematical_Libraries
 A simply repository to familiarize myself with Mathematical Modules in Python for use in ML.
 
 Go to Numpy/ to find 6 Jupyter Notebook Files explaining Numpy. \
